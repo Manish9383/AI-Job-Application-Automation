@@ -26,9 +26,8 @@ An AI-powered automation workflow built using **n8n** that automatically searche
 
 # 🏗 Workflow Overview
 
-> Replace the image below with your workflow screenshot.
 
-![Workflow](screenshots/workflow-overview.png)
+![Workflow](screenshots/screenshots/workflow-overview.png.png)
 
 ---
 
@@ -117,25 +116,27 @@ AI-Job-Application-Automation/
 
 ## Workflow
 
-![Workflow](screenshots/workflow-overview.png)
+![Workflow](screenshots/screenshots/workflow-overview.png.png)
 
 ---
 
 ## Generated Resume
 
-![Resume](screenshots/generated-resume.png)
+![Resume](screenshots/screenshots/generated-resume1.png.png)
+![Resume](screenshots/screenshots/generated-resume2.png.png)
+![Resume](screenshots/screenshots/generated-resume3.png.png)
 
 ---
 
 ## Google Docs Output
 
-![Google Docs](screenshots/google-doc.png)
+![Google Docs](screenshots/screenshots/google-doc.png.png)
 
 ---
 
 ## Google Sheets Tracker
 
-![Google Sheet](screenshots/google-sheet.png)
+![Google Sheet](screenshots/screenshots/google-sheet.png.png)
 
 ---
 
